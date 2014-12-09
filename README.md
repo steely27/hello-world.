@@ -1,4 +1,5 @@
 hello-world.
 ============
 
-1st github repository
+Yo humans,
+Hubot here.  I like angular.js
